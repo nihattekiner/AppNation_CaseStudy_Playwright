@@ -68,7 +68,7 @@ Projeyi çalıştırmadan önce bilgisayarınızda şu 3 temel aracın yüklü o
 2.  O klasörün içine girin, sağ tıklayıp **"Git Bash Here"** (veya terminal) seçeneğini seçin.
 3.  Aşağıdaki komutu yapıştırıp Enter'a basın:
     ```bash
-    git clone [https://github.com/nihattekiner/AppNation_CaseStudy_Playwright.git](https://github.com/nihattekiner/AppNation_CaseStudy_Playwright.git)
+    git clone git clone https://github.com/nihattekiner/AppNation_CaseStudy_Playwright.git
     ```
 4.  İnen klasörü **VS Code** ile açın (`File > Open Folder` menüsünden).
 
