@@ -104,3 +104,8 @@ Testler bittiğinde detaylı HTML raporunu görmek için:
 ```bash
 npx playwright show-report
 ```
+
+Test senaryolarının başarılıyla çalıştığına dair video kayıtları : 
+TS01 - https://drive.google.com/file/d/1YlSuZluSRqQE9uSYmZooLqoMvQrfwr56/view?usp=sharing
+TS02 - https://drive.google.com/file/d/1mnNmNUC2BXhhIWOHWk7Cx23e-takUHr9/view?usp=sharing
+TS03 - https://drive.google.com/file/d/1DATgWjIpvWs_8R69AgYqthGzi4pJYqVR/view?usp=sharing
