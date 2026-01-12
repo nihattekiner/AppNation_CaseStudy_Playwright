@@ -14,31 +14,31 @@ Bu proje kapsamında aşağıdaki 3 ana senaryo otomatize edilmiştir:
 
 ## ✅ Case 1: Chat Fonksiyonu ve Başlık Kontrolü
 
-Web sitesine gidilir.
+1.1) Web sitesine gidilir.
 
-Sayfa başlığının (Title) doğruluğu kontrol edilir.
+1.2) Sayfa başlığının (Title) doğruluğu kontrol edilir.
 
-Chatbot'a bir mesaj yazılır ("bu bir otomasyon test denemesidir").
+1.3) Chatbot'a bir mesaj yazılır ("bu bir otomasyon test denemesidir").
 
-Botun yanıt verip vermediği kontrol edilir.
+1.4) Botun yanıt verip vermediği kontrol edilir.
 
 ## ✅ Case 2: Login ve "Terms of Use" Sayfası
 
-Ana sayfadan Login butonuna tıklanır.
+2.1) Ana sayfadan Login butonuna tıklanır.
 
-Açılan pencerede Terms of Use (Kullanım Şartları) linkine tıklanır.
+2.2) Açılan pencerede Terms of Use (Kullanım Şartları) linkine tıklanır.
 
-Kullanıcının doğru sayfaya yönlendirildiği doğrulanır.
+2.3) Kullanıcının doğru sayfaya yönlendirildiği doğrulanır.
 
 ## ✅ Case 3: Görsel Üretimi (Image Generation)
 
-Sol menüden Image sekmesine geçilir.
+3.1) Sol menüden Image sekmesine geçilir.
 
-Model listesinden DALL-E seçilir.
+3.2) Model listesinden DALL-E seçilir.
 
-Chat'e "bana bir resim çiz" komutu gönderilir.
+3.3) Chat'e "bana bir resim çiz" komutu gönderilir.
 
-Üye girişi yapılmadığı için sistemin kullanıcıyı Login sayfasına yönlendirdiği doğrulanır.
+3.4) Üye girişi yapılmadığı için sistemin kullanıcıyı Login sayfasına yönlendirdiği doğrulanır.
 
 ## 🏗️ Proje Mimarisi
 Dil: JavaScript / Node.js
