@@ -1,6 +1,6 @@
-# 🤖 ChatbotAI - Playwright Automation Case Study
+# 🤖 QA Engineer Case Study: Genie Application - Playwright Automation
 
-Bu proje, **ChatbotAI** web sitesinin temel fonksiyonlarını test etmek amacıyla **Playwright** ve **JavaScript** kullanılarak geliştirilmiş bir test otomasyon çalışmasıdır.
+Bu proje, **https://chatbotai.com/** web sitesinin temel fonksiyonlarını test etmek amacıyla **Playwright** ve **JavaScript** kullanılarak geliştirilmiş bir test otomasyon çalışmasıdır.
 
 ## 👨‍💻 Hazırlayan
 **Kâzım Nihat Tekiner** *Software QA Engineer / SDET*
