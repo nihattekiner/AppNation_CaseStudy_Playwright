@@ -12,7 +12,8 @@ Bu çalışma, modern test otomasyon süreçlerini, **Page Object Model (POM)** 
 🧪 Test Senaryoları (Neleri Test Ediyoruz?)
 Bu proje kapsamında aşağıdaki 3 ana senaryo otomatize edilmiştir:
 
-✅ Case 1: Chat Fonksiyonu ve Başlık Kontrolü
+## ✅ Case 1: Chat Fonksiyonu ve Başlık Kontrolü
+
 Web sitesine gidilir.
 
 Sayfa başlığının (Title) doğruluğu kontrol edilir.
@@ -21,14 +22,16 @@ Chatbot'a bir mesaj yazılır ("bu bir otomasyon test denemesidir").
 
 Botun yanıt verip vermediği kontrol edilir.
 
-✅ Case 2: Login ve "Terms of Use" Sayfası
+## ✅ Case 2: Login ve "Terms of Use" Sayfası
+
 Ana sayfadan Login butonuna tıklanır.
 
 Açılan pencerede Terms of Use (Kullanım Şartları) linkine tıklanır.
 
 Kullanıcının doğru sayfaya yönlendirildiği doğrulanır.
 
-✅ Case 3: Görsel Üretimi (Image Generation)
+## ✅ Case 3: Görsel Üretimi (Image Generation)
+
 Sol menüden Image sekmesine geçilir.
 
 Model listesinden DALL-E seçilir.
@@ -37,7 +40,7 @@ Chat'e "bana bir resim çiz" komutu gönderilir.
 
 Üye girişi yapılmadığı için sistemin kullanıcıyı Login sayfasına yönlendirdiği doğrulanır.
 
-🏗️ Proje Mimarisi
+## 🏗️ Proje Mimarisi
 Dil: JavaScript / Node.js
 
 Framework: Playwright
